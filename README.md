@@ -40,7 +40,7 @@
 <h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
-  <a href="https://agninetport.netlify.app" target="blank">
+  <a href="https://agni-devoops.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/agnikumardas" target="blank">
